@@ -12,4 +12,4 @@ expresiones ${ 1 + 1 }
 numeros: ${ age }
 booleanos: ${ isDeveloper }`
 
-console.log( templateString ) 
+console.log( templateString )
