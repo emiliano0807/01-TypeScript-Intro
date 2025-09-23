@@ -13,5 +13,3 @@ numeros: ${ age }
 booleanos: ${ isDeveloper }`
 
 console.log( templateString )
-
-
