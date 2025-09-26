@@ -5,7 +5,11 @@ import { setupCounter } from './counter.ts'
 //import { name, age, isDeveloper } from './bases/01-types'
 //import { Bulbasaur, pokemons } from './bases/02-objects'
 // import { Charmander } from './bases/03-classes'
-import { charmander } from './bases/04-intection'
+// import { charmander } from './bases/04-intection'
+// import { charmander } from './bases/05-decorators'
+import { charmander } from './bases/06-decorators2'
+
+
 
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
